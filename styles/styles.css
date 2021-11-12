@@ -28,7 +28,7 @@ h4{
   }
   
   .text {
-    text-align:left;
+    text-align:justify;
     color: rgba(255,255,255,.9);
     line-height: 1.4em;
     font-family:'Josefin Sans';
