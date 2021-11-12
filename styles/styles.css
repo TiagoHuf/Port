@@ -1,3 +1,7 @@
+html{
+    zoom: 135%;
+}
+
 .port{
     color: rgba(255,255,255,.9);
     font-family:'Courier New', Courier, monospace;
